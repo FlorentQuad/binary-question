@@ -1,6 +1,0 @@
-#!/bin/bash 
-while true
-do
-	echo "Hello From Docker file: "$(date) 
-	sleep 2
-done
